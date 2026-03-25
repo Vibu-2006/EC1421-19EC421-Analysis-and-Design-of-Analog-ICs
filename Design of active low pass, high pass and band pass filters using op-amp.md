@@ -35,14 +35,12 @@ pass filter can be formed by simply cascading high-pass and low-pass sections.  
 band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+<img width="991" height="1543" alt="image" src="https://github.com/user-attachments/assets/757103a8-4c8e-4e93-8d25-e8b33af09861" />
+
 
 ## MODEL GRAPH:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+<img width="1022" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a93c365-49c6-483e-88ae-4703627f6d26" />
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -84,20 +82,15 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                 Ri = Rf 
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+<img width="1055" height="1599" alt="image" src="https://github.com/user-attachments/assets/67a81fa2-e2ce-473c-bf41-c0bae0f3c59c" />
+<img width="1080" height="1323" alt="image" src="https://github.com/user-attachments/assets/0c3b2b3d-4b4d-4244-b222-96c482df24e2" />
+
+
 ## GRAPH:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+<img width="1068" height="1600" alt="image" src="https://github.com/user-attachments/assets/2fd48cd3-78c7-4474-8145-171fb608d32a" />
+<img width="1080" height="1569" alt="image" src="https://github.com/user-attachments/assets/7514b6ad-59c3-4270-aad5-417b5c6979f2" />
+<img width="1011" height="1456" alt="image" src="https://github.com/user-attachments/assets/cef10270-3465-41f4-94b9-9f1839792e02" />
+
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 
