@@ -30,11 +30,11 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
-<img width="1600" height="985" alt="image" src="https://github.com/user-attachments/assets/e6f531a5-9279-49e4-beb4-808fc8318331" />
+<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/95fa31c7-c540-4906-bbcc-c83f432942cb" />
 
 ## MODEL GRAPH:
 
-<img width="1362" height="1599" alt="image" src="https://github.com/user-attachments/assets/7c7b3350-6e78-48ad-b3ca-cf4b610b26ca" />
+<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/fc1fb324-79ac-4126-bcbc-051433beb403" />
 
 ## PROCEDURE:
  
@@ -48,10 +48,10 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
    
 ## TABULATION AND CALCULATIONS:
-<img width="942" height="1315" alt="image" src="https://github.com/user-attachments/assets/fb1a3ae1-d0af-4893-8b46-7cb8868a48a0" />
+<img width="1200" height="1599" alt="image" src="https://github.com/user-attachments/assets/d758fe16-5576-4d52-8ff2-79e03a808b07" />
 
  ## GRAPH:
-<img width="1028" height="1600" alt="image" src="https://github.com/user-attachments/assets/4dd04c25-390e-4e3f-8a87-b2e0b724d3b8" />
+<img width="1200" height="1599" alt="image" src="https://github.com/user-attachments/assets/b2e9efc9-ed4c-4e55-b27d-65be8b17130c" />
 
 
 
