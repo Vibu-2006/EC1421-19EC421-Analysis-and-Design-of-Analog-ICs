@@ -16,7 +16,7 @@ LT-Spice
 
 4. Complete the connection.
 
-5. Save the file by giving file name.
+5. Save the file by giving file name
 
 6. Click on the run option -->click advanced open -->select Ac analysis-->enter the amplitude time delay stop time value.
 
