@@ -30,11 +30,11 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
- paste your circuit diagram
+<img width="1600" height="985" alt="image" src="https://github.com/user-attachments/assets/e6f531a5-9279-49e4-beb4-808fc8318331" />
 
 ## MODEL GRAPH:
 
- Paste your model graph from observation
+<img width="1362" height="1599" alt="image" src="https://github.com/user-attachments/assets/7c7b3350-6e78-48ad-b3ca-cf4b610b26ca" />
 
 ## PROCEDURE:
  
@@ -47,18 +47,13 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 7. Plot the graph of the input wave versus output wave for any one practical case.
 
    
-## TABULATION:
+## TABULATION AND CALCULATIONS:
+<img width="942" height="1315" alt="image" src="https://github.com/user-attachments/assets/fb1a3ae1-d0af-4893-8b46-7cb8868a48a0" />
 
- paste your tabulation 
-
-## CALCULATIONS:
-
- 
-
-## GRAPH:
+ ## GRAPH:
+<img width="1028" height="1600" alt="image" src="https://github.com/user-attachments/assets/4dd04c25-390e-4e3f-8a87-b2e0b724d3b8" />
 
 
 
 ## RESULT:
 Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
-
