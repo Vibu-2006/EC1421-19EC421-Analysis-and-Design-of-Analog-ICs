@@ -19,11 +19,11 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM:
-<img width="1600" height="1135" alt="image" src="https://github.com/user-attachments/assets/b49600cc-4963-4f6a-aebe-84bcd313ff9f" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0c148144-fbdb-4c4d-b1f1-dcd0b6c1dc98" />
 
 ## MODEL GRAPH:
-<img width="1600" height="1571" alt="image" src="https://github.com/user-attachments/assets/496cbde8-153d-4280-becd-e9b5b9769e25" />
-<img width="1431" height="1600" alt="image" src="https://github.com/user-attachments/assets/fba0e16c-2640-49d4-a618-cbcb5d6c1c84" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/94dcaa37-bba1-41c0-ab15-d9eca7ea1574" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7e83f863-404a-4f39-a02e-4c25beee203d" />
 
 ## PROCEDURE:
 ### Differentiator:
@@ -36,9 +36,9 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 <img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/fee44ef4-8ae5-4b7a-938e-927c4492992e" />
 
 ## TABULATION:
-<img width="1600" height="941" alt="image" src="https://github.com/user-attachments/assets/7f889c28-0e0e-4fd6-a918-0aea61cec510" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c0598f8f-2e95-4a3c-9c70-18e5639273c1" />
 ## GRAPH:
-<img width="1016" height="1364" alt="image" src="https://github.com/user-attachments/assets/fd297627-f7e9-4ec4-bff2-bf57c1f07d84" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/04c39e0f-a03b-4f38-b5a0-309c3310d4ee" />
 
 ## RESULT:
 Thus the Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
