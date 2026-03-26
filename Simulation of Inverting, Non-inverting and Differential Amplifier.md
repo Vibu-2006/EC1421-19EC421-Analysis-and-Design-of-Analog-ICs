@@ -15,20 +15,16 @@ LT-Spice
 6. Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtai
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM AND OUTPUT GRAPH:
+
 ### INVERTING AMPLIFIER:
+<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/be31307f-2c0c-4571-abd8-efae96b322a0" />
 
 ### NON-INVERTING AMPLIFIER:
+<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa0e72e0-a558-496b-a3d6-813c5f899fdf" />
 
 ### DIFFERENTIAL AMPLIFIER:
-
-
-## OUTPUT GRAPH:
-### INVERTING AMPLIFIER:
-
-### NON-INVERTING AMPLIFIER:
-
-### DIFFERENTIAL AMPLIFIER:
+<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/9caa9405-7c38-4f27-a336-70e52a775320" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and inverting, non- inverting and differential amplifiers circuit is simulated.
